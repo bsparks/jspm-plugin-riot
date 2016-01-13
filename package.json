@@ -5,8 +5,5 @@
   "main": "tag.js",
   "keywords": ["riotjs", "jspm", "plugin"],
   "author": "Ben Sparks <bsparks42@gmail.com> (https://github.com/bsparks)",
-  "license": "ISC",
-  "dependencies": {
-    "riot": "^2.3.13"
-  }
+  "license": "ISC"
 }
