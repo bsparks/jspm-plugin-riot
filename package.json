@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "tag.js",
-  "keywords": ["riotjs", "jspm", "plugin"],
+  "keywords": [
+    "riotjs",
+    "jspm",
+    "plugin"
+  ],
   "author": "Ben Sparks <bsparks42@gmail.com> (https://github.com/bsparks)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "riot-compiler": "^2.3.20"
+  }
 }
